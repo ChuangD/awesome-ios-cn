@@ -6,39 +6,6 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * * *
 
-### 我们要做什么？
-
-- 基于 awesome-ios 资源列表，我们将对各个资源项进行编译整理。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[BlockAlertsAnd-ActionSheets：一个支持block的弹出框](http://hao.jobbole.com/blockalertsand-actionsheets-ios/)》
-  - 《[MBProgressHUD：一个不错的进度提示工具](http://hao.jobbole.com/mbprogresshud-ios/)》
-  - 《[Wonderful：不仅仅是一个酷炫的颜色库](http://hao.jobbole.com/wonderful/)》
-
-* * *
-
-### 如何参与本项目？
-
-从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
-
-不过加入前，有几个小要求：
-
-* 英文还不错，能读懂英文并用自己的话复述；
-* 有 iOS 开发经验；
-
-如有兴趣，请加 QQ：50872495。加 Q 时请注明「iOS大全」
-
-* * *
-
-### 本项目的参与者
-
-- 维护者：[tangyouhua](https://github.com/tangyouhua)
-
-- 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、You
-
-注：名单不分排名，不定期补充更新
-
-* * *
-
 ### 目录
 
 *   [入门](#getting-started)
